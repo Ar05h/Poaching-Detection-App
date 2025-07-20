@@ -1,5 +1,5 @@
 # Poaching-Detection-App
-Individual project for senior capstone class. A mobile application was developed to help detect poaching using AI-powered analysis of images, sounds, and location data. Users can upload animal photos or recordings, and the app uses AI to determine if the animal is in distress. Sightings are plotted on a map, with filters to show normal or abnormal reports. The app is built using React Native and Expo for the frontend, Node.js for the backend, and OpenAI APIs for media analysis.
+Individual project for senior capstone class. A mobile application was developed to help detect poaching using AI-powered analysis of images, sounds, and geolocation data. Users can upload animal photos or audio recordings, and the app uses OpenAI’s GPT-4o to analyze images and Whisper to transcribe and assess animal sounds. All sightings are plotted on an interactive map, with filters to view normal or abnormal cases. The frontend is built using React Native with Expo, while the backend is developed using Node.js.
 
 <img width="1179" height="2556" alt="IMG_8892" src="https://github.com/user-attachments/assets/9442be8c-7923-4a7a-ba6c-793b3b603f12" />
 
