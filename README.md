@@ -3,10 +3,10 @@ Individual project for senior capstone class. A mobile application was developed
 
 <img width="1179" height="2556" alt="IMG_8892" src="https://github.com/user-attachments/assets/9442be8c-7923-4a7a-ba6c-793b3b603f12" />
 
-<img width="1179" height="2556" alt="IMG_8893" src="https://github.com/user-attachments/assets/c4668ceb-cd57-4653-8c0f-a6c437056f14" />
+![Screenshot 2025-08-04 at 11 36 09 PM](https://github.com/user-attachments/assets/80d318e0-44ea-4c76-a945-994eb77c7062)
 
-![IMG_8915](https://github.com/user-attachments/assets/c99acbc3-e842-4b9d-892a-53f57bd6d7cb)
+![Screenshot 2025-08-04 at 11 36 34 PM](https://github.com/user-attachments/assets/a5f9d4d0-b9e0-4aeb-bcc8-66b0572968cb)
 
-<img width="1179" height="2556" alt="IMG_8916" src="https://github.com/user-attachments/assets/27638e4c-a731-412a-8bb7-59c8124b51df" />
+![Screenshot 2025-08-04 at 11 46 50 PM](https://github.com/user-attachments/assets/2441e9e0-7155-4cc8-af27-3d03d182ddee)
 
-![IMG_8917](https://github.com/user-attachments/assets/0338085c-bf58-4d7d-b08d-05b0509e2887)
+![Screenshot 2025-08-04 at 11 47 10 PM](https://github.com/user-attachments/assets/a9cd2a46-7881-4475-95e9-f718bd7edad0)
